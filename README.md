@@ -4,6 +4,8 @@
 
 ChronoFlow is a minimalist and visually stunning time writing application designed for freelancers and small teams. It allows users to meticulously track time spent on various projects. Each project can be associated with a customer, streamlining client management. A key feature is the ability to flag time entries as 'invoiceable' or eligible for 'innovation subsidies (WBSO)', making financial administration and reporting seamless. The application will feature a central dashboard for quick time entry and weekly overviews, dedicated sections for managing customers and projects, and a simple yet powerful reporting tool to filter and export time logs.
 
+jsjsjsjsjsjsjsj (need this commit to force update)
+
 ## Key Features
 
 - **Intuitive Time Tracking**: Log hours against projects with ease.
