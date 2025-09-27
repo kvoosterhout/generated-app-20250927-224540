@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "v1-chronoflow-bb7a29ee-48c4-494e-8cb0-d6d39498c6b4",
+	"name": "timewrites",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"assets": {
